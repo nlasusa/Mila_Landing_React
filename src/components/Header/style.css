@@ -6,6 +6,10 @@ header {
     height: 195px;
 }
 
+a {
+  word-spacing: 4px; 
+}
+
 #nunc {
     font-family: 'Wire One', sans-serif;
     font-size: 28px;

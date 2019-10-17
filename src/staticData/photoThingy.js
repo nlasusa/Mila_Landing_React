@@ -1,17 +1,17 @@
 module.exports = [
   {
     classname: 'item1',
-    aosAction: 'fade-up',
+    aosAction: 'flip-left',
     captions: [ "Summer Sendoff", "BaeCation", "Seas the day"]
   },
   {
     classname: 'item2',
-    aosAction: 'fade-down',
+    aosAction: 'flip-down',
     captions: [ "in crust, we trust", "pizza my heart", "Olive the gouda thyme we had together."]
   },
   {
     classname: 'item3',
-    aosAction: 'zoom-in',
+    aosAction: 'flip-up',
     captions: [ "What, like its hard?", "Not sure what I did to you, but ill take a pinot grigio", "BRB, relocating"]
   },
   {
