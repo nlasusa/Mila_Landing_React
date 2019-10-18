@@ -48,6 +48,7 @@ function App() {
           <div className="lg-col-12">
             {photoThingData && photoThingData.map((item, i) => {
               return <Photothingy
+                textclass={item.typeclass}
                 key={i}
                 item={item.classname}
                 aosAction={item.aosAction}
